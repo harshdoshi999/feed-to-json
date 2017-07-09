@@ -1,9 +1,13 @@
 {
   "name": "feed-to-json",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Convert RSS feeds to JSON",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshdoshi999/feed-to-json.git"
+  },
   "keywords": [
     "rss-to-json",
     "rss",
@@ -34,5 +38,6 @@
   "dependencies": {
     "request": "^2.72.0"
   },
+  "description": "Rss Feed to Json: RSS feed generator for Node.js. Fetch RSS feed from URL and convert to JSON!",
   "license": "MIT"
 }
