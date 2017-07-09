@@ -1,0 +1,38 @@
+{
+  "name": "feed-to-json",
+  "version": "1.0.1",
+  "description": "Convert RSS feeds to JSON",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "rss-to-json",
+    "rss",
+    "rssparser",
+    "rssreader",
+    "rss reader",
+    "rss parser",
+    "rss",
+    "parser",
+    "reader",
+    "xml2js",
+    "xml2json",
+    "rss to json",
+    "rss2json",
+    "rss 2 json",
+    "feed-read",
+    "feed read",
+    "feed",
+    "feedparser",
+    "feed-parser",
+    "feed parser",
+    "feed-reader",
+    "feedreader",
+    "feed reader",
+    "rss json"
+  ],
+  "author": "Harsh Doshi",
+  "dependencies": {
+    "request": "^2.72.0"
+  },
+  "license": "MIT"
+}
